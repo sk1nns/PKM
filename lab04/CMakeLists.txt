@@ -1,0 +1,2 @@
+add_subdirectory(simple_udp_sender)
+add_subdirectory(single_thread_udp_receiver)
